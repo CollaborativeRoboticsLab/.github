@@ -19,7 +19,7 @@
 ### 🙋‍♀️ About Us
 
 ![Github Stars](https://img.shields.io/github/stars/AIResearchLab?logo=github&color=31545C)
-![Github Followers](https://img.shields.io/github/AIResearchLab/mik-p?logo=github&color=31545C)
+![Github Followers](https://img.shields.io/github/AIResearchLab/AIResearchLab?logo=github&color=31545C)
 
 The Robotics and Artificial Intelligence Lab is part of the Faculty of Science and Technology at the University of Canberra and is dedicated to providing high-quality education and research opportunities in the fields of robotics, technology, and engineering. Our goal is to foster innovation, collaboration, and critical thinking among our students and faculty members. The research lab has a strong foundation in Human Robot Interaction (HRI).
 
