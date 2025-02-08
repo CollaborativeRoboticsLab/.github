@@ -1,5 +1,3 @@
-<img src="https://github.com/UC-SciTech/.github/assets/45908907/2091e8de-decb-4eed-8142-f8e5636d431b" width="1500" alt-text="UC - SciTech" />
-
 <div align="center">
   <h1>University of Canberra - Collaborative Robotics Lab</h1>
 
@@ -34,3 +32,6 @@ To get started, please review our contribution guidelines to ensure a smooth col
 If you have any questions, or suggestions, or would like to get involved in our projects, please don't hesitate to reach out to us. More information and contact can be found at [canberra.edu.au/about-uc/faculties/SciTech](https://www.canberra.edu.au/about-uc/faculties/SciTech).
 
 We look forward to collaborating with you and advancing the fields of science and technology together!
+
+<br>
+<img src="https://github.com/UC-SciTech/.github/assets/45908907/2091e8de-decb-4eed-8142-f8e5636d431b" width="1500" alt-text="UC - SciTech" />
