@@ -1,10 +1,10 @@
 <img src="https://github.com/UC-SciTech/.github/assets/45908907/2091e8de-decb-4eed-8142-f8e5636d431b" width="1500" alt-text="UC - SciTech" />
 
 <div align="center">
-  <h1>University of Canberra - Robotics and Artificial Intelligence Lab</h1>
+  <h1>University of Canberra - Collaborative Robotics Lab</h1>
 
   <br />
-  <p>Welcome to the official GitHub organization for the University of Canberra's Robotics and Artificial Intelligence Lab!</p>
+  <p>Welcome to the official GitHub organization for the University of Canberra's Collaborative Robotics Lab!</p>
 
   <a href="https://www.canberra.edu.au/about-uc/faculties/SciTech">Website</a>
   <span>&nbsp;&nbsp;•&nbsp;&nbsp;</span>
