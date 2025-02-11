@@ -1,25 +1,27 @@
+<img src="https://github.com/CollaborativeRoboticsLab/collaborativeroboticslab.github.io/blob/main/assets/images/crl_icon.png" width="1500" alt-text="UC - SciTech" />
+
 <div align="center">
-  <h1>University of Canberra - Collaborative Robotics Lab</h1>
+  <h1>Collaborative Robotics Lab (CRL)</h1>
 
   <br />
   <p>Welcome to the official GitHub organization for the University of Canberra's Collaborative Robotics Lab!</p>
 
-  <a href="https://www.canberra.edu.au/about-uc/faculties/SciTech">Website</a>
+  <a href="https://www.canberra.edu.au/uc-research/faculty-research-centres/hct/areas-of-research/robotics">Website</a>
   <span>&nbsp;&nbsp;•&nbsp;&nbsp;</span>
-  <a href="https://www.linkedin.com/company/uc-faculty-of-science-and-technology/">Linkedin</a>
+  <a href="https://www.linkedin.com/company/collaborative-robotics-lab/">Linkedin</a>
   
   <br />
   <hr />
 </div>
 
-## Hi there 👋
+## Welcome to the team 🙌
 
 ### 🙋‍♀️ About Us
 
 ![Github Stars](https://img.shields.io/github/stars/CollaborativeRoboticsLab?logo=github&color=414D61)
 ![Github Followers](https://img.shields.io/github/followers/CollaborativeRoboticsLab?logo=github&color=414D61)
 
-The Robotics and Artificial Intelligence Lab is part of the Faculty of Science and Technology at the University of Canberra and is dedicated to providing high-quality education and research opportunities in the fields of robotics, technology, and engineering. Our goal is to foster innovation, collaboration, and critical thinking among our students and faculty members. The research lab has a strong foundation in Human Robot Interaction (HRI).
+The Collaborative Robotics Lab (CRL) is part of the Faculty of Science and Technology at the University of Canberra. We're a strong interdisciplinary Research Team with interests in Human-Robt Interaction, robot manipulation and perception and robotic art.
 
 ### 🌈 How to Contribute
 
@@ -29,9 +31,6 @@ To get started, please review our contribution guidelines to ensure a smooth col
 
 ### 👋 Contact Us
 
-If you have any questions, or suggestions, or would like to get involved in our projects, please don't hesitate to reach out to us. More information and contact can be found at [canberra.edu.au/about-uc/faculties/SciTech](https://www.canberra.edu.au/about-uc/faculties/SciTech).
+If you have any questions, or suggestions, or would like to get involved in our projects, please don't hesitate to reach out to us. More information and contact can be found at [our official website](https://www.canberra.edu.au/uc-research/faculty-research-centres/hct/areas-of-research/robotics).
 
 We look forward to collaborating with you and advancing the fields of science and technology together!
-
-<br>
-<img src="https://github.com/UC-SciTech/.github/assets/45908907/2091e8de-decb-4eed-8142-f8e5636d431b" width="1500" alt-text="UC - SciTech" />
