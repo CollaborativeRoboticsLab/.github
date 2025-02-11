@@ -1,4 +1,4 @@
-<img src="https://github.com/CollaborativeRoboticsLab/collaborativeroboticslab.github.io/blob/main/assets/images/crl_icon.png" width="1500" alt-text="UC - SciTech" />
+<img src="crl_icon.png" width="1500" alt-text="UC - SciTech" />
 
 <div align="center">
   <h1>Collaborative Robotics Lab (CRL)</h1>
