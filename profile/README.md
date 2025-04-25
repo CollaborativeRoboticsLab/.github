@@ -16,6 +16,27 @@
 
 ## Welcome to the team 🙌
 
+### 🙋‍♀️ About Us
+
+![Github Stars](https://img.shields.io/github/stars/CollaborativeRoboticsLab?logo=github&color=414D61)
+![Github Followers](https://img.shields.io/github/followers/CollaborativeRoboticsLab?logo=github&color=414D61)
+
+The Collaborative Robotics Lab (CRL) is part of the Faculty of Science and Technology at the University of Canberra. We're a strong interdisciplinary Research Team with interests in Human-Robt Interaction, robot manipulation and perception and robotic art.
+
+### 🌈 How to Contribute
+
+We welcome contributions from both internal and external collaborators. If you're a faculty member, student, or researcher at the University of Canberra, we encourage you to get involved in our projects and contribute your ideas and expertise. If you're an external contributor, feel free to explore our projects and submit your contributions through pull requests.
+
+To get started, please review our contribution guidelines to ensure a smooth collaboration process.
+
+### 👋 Contact Us
+
+If you have any questions, or suggestions, or would like to get involved in our projects, please don't hesitate to reach out to us. More information and contact can be found at [our official website](https://www.canberra.edu.au/uc-research/faculty-research-centres/hct/areas-of-research/robotics).
+
+We look forward to collaborating with you and advancing the fields of science and technology together!
+
+## Explore
+
 ### Our Papers
 
 | Paper | Link | Codebase |
@@ -50,22 +71,3 @@
 | HOKUYO 2D LiDAR  | [urg_node2](https://github.com/CollaborativeRoboticsLab/urg_node2) | Yes in docker folder |
 | Orbbec 3D camera | [OrbbecSDK_ROS2](https://github.com/CollaborativeRoboticsLab/OrbbecSDK_ROS2) | Yes in docker folder |
 | Legacy Astra Cameras | [astra_legacy_ros](https://github.com/CollaborativeRoboticsLab/astra_legacy_ros) | Yes in docker folder |
-
-### 🙋‍♀️ About Us
-
-![Github Stars](https://img.shields.io/github/stars/CollaborativeRoboticsLab?logo=github&color=414D61)
-![Github Followers](https://img.shields.io/github/followers/CollaborativeRoboticsLab?logo=github&color=414D61)
-
-The Collaborative Robotics Lab (CRL) is part of the Faculty of Science and Technology at the University of Canberra. We're a strong interdisciplinary Research Team with interests in Human-Robt Interaction, robot manipulation and perception and robotic art.
-
-### 🌈 How to Contribute
-
-We welcome contributions from both internal and external collaborators. If you're a faculty member, student, or researcher at the University of Canberra, we encourage you to get involved in our projects and contribute your ideas and expertise. If you're an external contributor, feel free to explore our projects and submit your contributions through pull requests.
-
-To get started, please review our contribution guidelines to ensure a smooth collaboration process.
-
-### 👋 Contact Us
-
-If you have any questions, or suggestions, or would like to get involved in our projects, please don't hesitate to reach out to us. More information and contact can be found at [our official website](https://www.canberra.edu.au/uc-research/faculty-research-centres/hct/areas-of-research/robotics).
-
-We look forward to collaborating with you and advancing the fields of science and technology together!
